@@ -4,3 +4,14 @@
 *.mid
 *.log
 *~
+
+# OS files
+# from: https://help.github.com/articles/ignoring-files
+.DS_store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
