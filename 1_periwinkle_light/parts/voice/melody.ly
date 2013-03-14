@@ -41,17 +41,17 @@ voice = \relative c' {
   |   r1
 
   % phrase 4: mm 26-28
-  |   b2 b4 b
-  |   g2 b
-  |   a4 b g2
+  |   b2 b4 b       % a Fif-ties
+  |   g2 b          % wind was
+  |   a4 b g2       % at my back,
 
   % phrase 5: mm 29-32
-  |   g2 a
-  |   b1
-  |   c4 d d b
-  |   c2.
+  |   g2 a          % I Put
+  |   b1            % my
+  |   c4 d d b      % Pe-ri-win-kle
+  |   c2.           % light
 
   % phrase 6: mm 32 (with pickup from 31) ..?
-      g4
-  |   a2 a
+      g4            % In-side
+  |   a2 a          % my
 }
