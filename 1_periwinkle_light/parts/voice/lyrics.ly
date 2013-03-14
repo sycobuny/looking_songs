@@ -6,7 +6,7 @@ voiceLyrics = \lyricmode {
 
   In the six -- ties,
   On the play -- ground, a
-  fif -- ties wind was at my back, I
+  Fif -- ties wind was at my back, I
   Put my
   Pe -- ri -- win -- kle light
   In -- side my chest for keeps.
